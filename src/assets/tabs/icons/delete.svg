@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="24px" viewBox="0 0 19 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon/delete</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Delete" transform="translate(-15.000000, -12.000000)">
+            <g id="icon/delete">
+                <rect id="Rectangle" x="0" y="0" width="48" height="48"></rect>
+                <g id="rubbish" transform="translate(15.000000, 12.000000)" fill="#F06775" fill-rule="nonzero">
+                    <path d="M1.375,21.3333125 C1.375,22.8 2.575,24 4.0416875,24 L14.708375,24 C16.175,24 17.375,22.8 17.375,21.3333125 L17.375,5.3333125 L1.375,5.3333125 L1.375,21.3333125 Z M4.661625,11.84 L6.548375,9.9533125 L9.375,12.78 L12.2016875,9.9533125 L14.088375,11.84 L11.2616875,14.6666875 L14.088375,17.493375 L12.2016875,19.3800625 L9.375,16.5533125 L6.5483125,19.3800625 L4.661625,17.4933125 L7.4883125,14.666625 L4.661625,11.84 Z" id="Shape"></path>
+                    <polygon id="Path" points="14.0416875 1.3333125 12.7083125 0 6.0416875 0 4.7083125 1.3333125 0.0416875 1.3333125 0.0416875 4 18.7083125 4 18.7083125 1.3333125"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

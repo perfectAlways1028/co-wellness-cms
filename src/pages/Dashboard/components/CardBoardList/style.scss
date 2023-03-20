@@ -1,0 +1,83 @@
+.cw-cardboard-list-container {
+  flex: 1;
+  border-radius: 10px;
+  background-color: #ffffff;
+  flex-direction: column;
+}
+.cw-cardboard-list-container .cw-cardboard-header {
+  display: flex;
+  height: 70px;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 10px 10px 0 0;
+  background-color: #3296e3;
+}
+
+.cw-cardboard-list-container .cw-cardboard-title {
+  color: #ffffff;
+  font-family: "Google Sans";
+  font-size: 21px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.cw-cardboard-list-container .cw-cardboard-body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+}
+.cw-cardboard-list-container .cw-cardboard-body .item-container {
+  display: flex;
+  flex-direction: column;
+  align-self: stretch;
+  height: 48px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.cw-cardboard-list-container .cw-cardboard-body .item-container .item-content {
+  display: flex;
+  flex-direction: row;
+  align-self: stretch;
+  justify-content: space-between;
+  flex: 1;
+  align-items: center;
+}
+.cw-cardboard-list-container
+  .cw-cardboard-body
+  .item-container
+  .item-content
+  .item-title {
+  color: #353957;
+  font-family: "Google Sans";
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.cw-cardboard-list-container
+  .cw-cardboard-body
+  .item-container
+  .item-content
+  .item-value {
+  color: #353957;
+  font-family: "Google Sans";
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 18px;
+  text-align: right;
+}
+.cw-cardboard-list-container
+  .cw-cardboard-body
+  .item-container
+  .item-seperator {
+  display: flex;
+  align-self: stretch;
+  height: 1px;
+  background-color: #dddddd;
+}

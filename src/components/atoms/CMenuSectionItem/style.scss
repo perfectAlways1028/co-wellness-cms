@@ -1,0 +1,35 @@
+.cw-menusectionitem-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.cw-menusectionitem-container .container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 40px;
+    align-items: center;
+}
+
+.cw-menusectionitem-container .container .icon {
+    width: 24px;
+    height: 24px;
+    margin-left: 13px;
+}
+.cw-menusectionitem-container .container .label {
+    flex: 1;
+    margin-left:  16px;
+    color: #353957;
+    font-family: "Google Sans";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+}
+.cw-menusectionitem-container .container .arrow {
+    width: 24px;
+    height: 24px;
+    margin-right: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

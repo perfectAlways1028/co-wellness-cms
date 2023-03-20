@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icon / Banner-On</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-/-Banner-On" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#D8D8D8" fill-opacity="0">
+            <rect id="Rectangle-6" x="0" y="0" width="24" height="24"></rect>
+        </g>
+        <g id="banner" transform="translate(4.000000, 6.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M16,0.9375 L16,0 L0,0 L0,0.9375 L1.90625,0.9375 L1.90625,1.875 L0,1.875 L0,11.25 L16,11.25 L16,1.875 L14.09375,1.875 L14.09375,0.9375 L16,0.9375 Z M6.59375,1.875 L6.59375,0.9375 L9.40625,0.9375 L9.40625,1.875 L6.59375,1.875 Z M2.84375,0.9375 L5.65625,0.9375 L5.65625,1.875 L2.84375,1.875 L2.84375,0.9375 Z M1.8509375,9.375 L4.015625,5.045625 L4.71875,6.451875 L5.890625,4.108125 L8.5240625,9.375 L1.8509375,9.375 Z M14.09375,9.375 L9.40625,9.375 L9.40625,8.4375 L14.09375,8.4375 L14.09375,9.375 Z M14.09375,7.5 L9.40625,7.5 L9.40625,6.5625 L14.09375,6.5625 L14.09375,7.5 Z M13.15625,1.875 L10.34375,1.875 L10.34375,0.9375 L13.15625,0.9375 L13.15625,1.875 Z" id="Shape"></path>
+            <polygon id="Path" points="5.2428125 7.5 5.7115625 8.4375 7.0071875 8.4375 5.890625 6.204375"></polygon>
+            <polygon id="Path" points="3.3678125 8.4375 4.6634375 8.4375 4.015625 7.141875"></polygon>
+        </g>
+    </g>
+</svg>

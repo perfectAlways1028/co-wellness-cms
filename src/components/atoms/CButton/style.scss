@@ -1,0 +1,89 @@
+.cw-button-container {
+  background-color: #68b983;
+  border-radius: 20px;
+  color: white;
+  height: 40px;
+  cursor: pointer;
+  font-family: "Google Sans";
+  font-size: 14px;
+  border: none;
+  outline: none;
+}
+
+.cw-button-container:hover {
+  background-color: #3e8e41;
+}
+
+.cw-button-container:active {
+  background-color: #3e8e41;
+  box-shadow: 0 1px #666;
+}
+
+.cw-button-container-delete {
+  border: 1px solid #f06775;
+  border-radius: 20px;
+  background-color: #ffffff;
+  color: #f06775;
+  cursor: pointer;
+  height: 40px;
+  font-family: "Google Sans";
+  font-size: 14px;
+  outline: none;
+}
+
+.cw-button-container-delete:active {
+  background-color: #ffffff;
+  box-shadow: 0 1px #f06775;
+}
+
+.cw-button-container-cancel {
+  border: 1px solid #a7a6c5;
+  border-radius: 20px;
+  background-color: #ffffff;
+  color: #a7a6c5;
+  height: 40px;
+  cursor: pointer;
+  font-family: "Google Sans";
+  font-size: 14px;
+  outline: none;
+}
+
+.cw-button-container-cancel:active {
+  background-color: #ffffff;
+  box-shadow: 0 1px #a7a6c5;
+}
+
+.cw-button-container-secondary {
+  background-color: #3998e0;
+  border-radius: 20px;
+  color: white;
+  cursor: pointer;
+  height: 40px;
+  font-family: "Google Sans";
+  font-size: 14px;
+  border: none;
+  outline: none;
+}
+
+.cw-button-container-secondary:active {
+  background-color: #3998e0;
+  box-shadow: 0 1px #a7a6c5;
+}
+
+.cw-button-container-upload {
+  border: 1px solid #68b983;
+  border-radius: 5px;
+  background-color: #ffffff;
+  color: #68b983;
+  cursor: pointer;
+  height: 40px;
+  font-family: "Google Sans";
+  font-size: 14px;
+  outline: none;
+}
+
+.cw-button-container-upload:active {
+  background-color: #68b983;
+  box-shadow: 0 1px #ffffff;
+  color: #ffffff;
+}

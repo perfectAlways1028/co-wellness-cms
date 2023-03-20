@@ -1,0 +1,35 @@
+.colorBox {
+    box-sizing: border-box;
+    height: 32px;
+    width: 320px;
+    border: 1px solid #A7A6C5;
+    border-radius: 6px;
+    background: linear-gradient(90deg, #A7C8D7 0%, #FFFFFF 100%, #FFFFFF 100%);
+  }
+
+  .colorDot {
+    height: 10px;
+    width: 10px;
+    border-radius: 5px;
+    background-color: #37B148;
+  }
+
+  .raidoColorBox {
+    display: flex;
+    box-sizing: border-box;
+    height: 19.68px;
+    width: 19.68px;
+    border: 1.7px solid #37B148;
+    border-radius: 9.84px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .nonSelectRadioColorBox{
+    box-sizing: border-box;
+    height: 20px;
+    width: 20px;
+    border: 1.7px solid #D8DCE6;
+    border-radius: 10px;
+    background: linear-gradient(0deg, #F6F7F9 0%, #FFFFFF 100%)
+  }

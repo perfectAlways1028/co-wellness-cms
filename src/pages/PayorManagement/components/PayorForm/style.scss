@@ -1,0 +1,29 @@
+.cw-payor-form-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+}
+
+.cw-payor-form-container .form-container{
+    display: flex;
+    flex-direction: column;
+    align-self: stretch;
+}
+
+.cw-payor-admin-title {
+    color: #353957;
+    font-family: "Google Sans";
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 30px;
+}
+.cw-changepassword {
+    color: #353957;
+    font-family: "Google Sans";
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 18px;
+}
+.cw-changepassword:hover {text-decoration: underline}

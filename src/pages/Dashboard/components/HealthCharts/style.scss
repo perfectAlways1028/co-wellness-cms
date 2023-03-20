@@ -1,0 +1,91 @@
+.cw-health-chart-container {
+    flex: 1;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    display: flex;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    flex-direction: column;
+    min-height: 264px;
+    margin-top: 16px;
+}
+
+.cw-health-chart-card-title {
+    color: #A7A6C5;
+    font-family: "Google Sans";
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    line-height: 20px;
+}
+
+
+.cw-health-chart-container .title{
+    color: #8DCF56;
+    font-family: "Google Sans";
+    font-size: 21px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.cw-chart {
+    height: 180px;
+    width: 180px;
+}
+
+.cw-chart-oval-container{
+    display: flex;
+    position: relative;
+    height: 16px;
+    width: 16px;
+    border-radius:  8px;
+    justify-content: center;
+    align-items: center;
+}
+.cw-chart-oval {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 16px;
+    width: 16px;
+    border-radius:  8px;
+    opacity: 0.5;
+    background-color: #E05853;
+    justify-content: center;
+    align-items: center;
+}
+.cw-chart-oval-inner {
+    height: 10px;
+    width: 10px;
+    border-radius: 5px;
+    background-color: #E05853;
+}
+.cw-chart-item-title {
+    color: #A7A6C5;
+    font-family: "Google Sans";
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 14px;
+}
+
+.cw-chart-item-value {
+    color: #353957;
+    font-family: "Google Sans";
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 14px;
+    text-align: right;
+}
+.cw-chart-label {
+    font-family: "Google Sans";
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 14px;
+    text-align: right;
+    color: white;
+}

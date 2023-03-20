@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="10px" viewBox="0 0 6 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icon/Other/Dropdown Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.9976391,6.94312516 L2.94312516,9.9976391 L-1.25233157e-13,7.05451394 L5.9976391,6.94312516 Z M-3.73034936e-14,3.0450687 L3.0450687,1.3211654e-13 L5.97909306,2.93402436 L-3.73034936e-14,3.0450687 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon/Other/Dropdown-Arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Arrows" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-1"></use>
+        <g mask="url(#mask-2)" fill="#353957" id="Colour">
+            <rect x="0" y="0" width="6" height="10"></rect>
+        </g>
+    </g>
+</svg>

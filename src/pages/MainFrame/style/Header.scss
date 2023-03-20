@@ -1,0 +1,44 @@
+.cw-header {
+    display: flex;
+    align-self: stretch;
+    height: 70px;
+    width: 100%;
+    flex-direction: row;
+    background-color: #E7E7E7;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cw-header .logo {
+    height: 24px;
+    width: 112.5px;
+    margin-left: 24px;
+}
+
+.cw-header .header-panel {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 40px;
+}
+
+.cw-header .header-panel .profile{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.cw-header .header-panel .profile .name{
+    color: #A7A6C5;
+    font-family: "Google Sans";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+}
+.cw-header .header-panel .profile .arrowIcon{
+    display: flex;
+    height: 20px;
+    width: 20px;
+    justify-content: center;
+    align-items: center;
+}

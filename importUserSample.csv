@@ -1,0 +1,3 @@
+{employeeIDCode};{name};{payorID};{jobID};{departmentID};{email};{countryCode};{phoneNumber};{birthday};{gender}
+U000006;Test User2;16;12;12;tester@mail.com;+62;+621234547892;1992-10-29;male
+U000007;Test User;16;12;12;tester3@mail.com;+62;+621234567893;1992-10-29;male

@@ -1,0 +1,43 @@
+.cw-breadcrumbs {
+    height: 50px;
+    padding-left: 29px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.cw-breadcrumbs .item {
+    flex-direction: row;
+    display: flex;
+}
+.cw-breadcrumbs .item .lastTitle {
+    color: #3998E0;
+    font-family: "Google Sans";
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.cw-breadcrumbs .title {
+    color: #A7A6C5;
+    font-family: "Google Sans";
+    font-size: 12px;
+    text-decoration: none;
+    line-height: 18px;
+}
+
+.cw-breadcrumbs .item .title {
+    color: #A7A6C5;
+    font-family: "Google Sans";
+    font-size: 12px;
+    text-decoration: none;
+    line-height: 18px;
+}
+.cw-breadcrumbs .item .splitter {
+    color: #A7A6C5;
+    font-family: "Google Sans";
+    font-size: 12px;
+    text-decoration: none;
+    line-height: 18px;
+    margin-left: 4px;
+    margin-right: 4px;
+}   

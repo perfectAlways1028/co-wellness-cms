@@ -1,0 +1,25 @@
+.cw-modal-team-form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+
+.cw-modal-team-form-container .btn-close {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 24px;
+    right: 24px;
+    
+}
+
+.cw-modal-team-form-container .title {
+    color: #353957;
+    font-family: "Google Sans";
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 50px;
+    text-align: center;
+    margin-top: 80px;
+}

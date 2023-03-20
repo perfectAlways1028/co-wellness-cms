@@ -1,0 +1,53 @@
+.cw-modal-upload-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+  height: 100%;
+}
+
+.cw-modal-upload-container .btn-close {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 24px;
+  right: 24px;
+}
+
+.cw-modal-upload-container .title {
+  color: #353957;
+  font-family: "Google Sans";
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 50px;
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 15px;
+}
+
+.cw-file-container {
+  display: flex;
+  height: 250px;
+  width: 500px;
+  margin-top: 15px;
+  flex-direction: column;
+}
+
+.cw-file-container .image-container {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  flex: 1;
+  border: 1px solid #a7a6c5;
+  border-radius: 4px;
+  background-color: #ffffff;
+  justify-content: center;
+  align-items: center;
+}
+
+.sub-title {
+  display: flex;
+  justify-content: center;
+  font-size: 14px;
+  margin-bottom: 10px;
+}

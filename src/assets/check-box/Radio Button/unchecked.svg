@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>unchecked</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#F6F7F9" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="unchecked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Radio" stroke="#D8DCE6" stroke-width="1.7" fill="url(#linearGradient-1)" x="2.85" y="2.85" width="18.3" height="18.3" rx="9.15"></rect>
+    </g>
+</svg>

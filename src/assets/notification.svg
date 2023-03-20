@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>notification</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,14 L4,14 L4,8 C4,5.334 6,4 7.999,4 L8.001,4 C10,4 12,5.334 12,8 L12,14 Z M9,17 C9,17.552 8.552,18 8,18 C7.448,18 7,17.552 7,17 L7,16 L9,16 L9,17 Z M15,14 C14.448,14 14,13.552 14,13 L14,8 C14,4.447 11.632,2.475 9,2.079 L9,1 C9,0.448 8.552,0 8,0 C7.448,0 7,0.448 7,1 L7,2.079 C4.368,2.475 2,4.447 2,8 L2,13 C2,13.552 1.552,14 1,14 C0.448,14 0,14.448 0,15 C0,15.552 0.448,16 1,16 L5,16 L5,17 C5,18.657 6.343,20 8,20 C9.657,20 11,18.657 11,17 L11,16 L15,16 C15.552,16 16,15.552 16,15 C16,14.448 15.552,14 15,14 L15,14 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header" transform="translate(-1229.000000, -30.000000)">
+            <g id="Top-Bar/Screen/X---Code-Directory">
+                <g id="Notifications" transform="translate(1229.000000, 20.000000)">
+                    <g id="notification" transform="translate(0.000000, 10.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Icon/20px/notification_bell-[#1397]" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <g id="⚙️Atoms/Colour/Grey-Darker" mask="url(#mask-2)" fill="#A7A6C5">
+                            <g transform="translate(-3.000000, -1.000000)" id="Colour">
+                                <rect x="0" y="0" width="22" height="22"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

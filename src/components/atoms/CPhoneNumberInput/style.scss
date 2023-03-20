@@ -1,0 +1,107 @@
+.cw-textfield-phone-number-container {
+    align-items: flex-start;
+    height: 83px;
+}
+.cw-textfield-phone-number-container .label {
+    color: #353957;
+    font-family: "Google Sans";
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 18px;
+}
+
+.cw-textfield-phone-number-container .label_disabled {
+  color: #9EA0A5;
+  font-family: "Google Sans";
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  height: 18px;
+}
+
+.cw-textfield-phone-number-container .error {
+    display: 'flex';
+    font-size: 14px;
+    color: #F06775;
+    margin-top: 4px;
+    font-family: 'Google Sans';
+}
+
+.cw-textfield-phone-number-container .field {
+  align-self: stretch;
+  display: flex;
+  position: relative;
+  margin-top: 4px;
+}
+
+.cw-textfield-phone-number-container .field_disabled {
+    align-self: stretch;
+    display: flex;
+    color: #9EA0A5;
+    font-size: 14px;
+    line-height: 22px;
+    margin-top: 4px;
+    height: 40px;
+    padding-left: 16px;
+    border-width: 1px;
+    font-family: 'Google Sans Light';
+    border: 1px solid #E2E5ED;
+    border-radius: 4px;
+    background-color: #EBEBEC;
+    box-shadow: inset 0 1px 2px 0 rgba(102,113,123,0.21);
+    outline: none;
+    align-items: center;
+    -webkit-appearance: none;
+}
+.cw-textfield-phone-number-container .field.focussed input {
+    padding: 24px 16px 8px 16px;
+  }
+.cw-textfield-phone-number-container .field.focussed input + label {
+    top: 4px;
+  }
+.cw-textfield-phone-number-container .field.locked {
+   pointer-events: none;
+  }
+.cw-textfield-phone-number-container .field input {
+    display: flex;
+    flex: 1;
+    border: 1px solid #A7A6C5;
+    border-radius: 4px;
+    height: 40px;
+    position: relative;
+    padding-left: 16px;
+    border-width: 1px;
+    font-family: 'Google Sans Light';
+    font-size: 16px;
+    background-color: white;
+    color: black;
+    outline: none;
+    -webkit-appearance: none;
+  }
+
+  .cw-textfield-phone-number-container .field .eyeContainer {
+    position: absolute;
+    display: flex;
+    right: 12px;
+    top: 9px;
+    width: 24px;
+    height: 24px;
+    justify-content: center;
+    align-items: center;
+  }
+  .cw-textfield-phone-number-container .field input::-webkit-input-placeholder {
+    color: #9EA0A5;
+    font-family: 'Google Sans Light';
+    font-size: 14px;
+  }
+  .cw-textfield-phone-number-container .field input::-moz-placeholder {
+    color: #9EA0A5;
+    font-family: 'Google Sans Light';
+    font-size: 14px;
+  }
+  .cw-textfield-phone-number-container .field input:-ms-input-placeholder {
+    color: #9EA0A5;
+    font-family: 'Google Sans Light';
+    font-size: 14px;
+  }

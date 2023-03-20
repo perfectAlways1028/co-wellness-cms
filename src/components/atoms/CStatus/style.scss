@@ -1,0 +1,24 @@
+.cw-status-container {
+    display: flex;  
+    background-color: #68B983;
+    border-radius: 6px;
+    color: white;
+    height: 28px;
+    font-family: "Google Sans";
+    font-size: 14px;
+    border: none;
+    outline: none;
+    justify-content: center;
+    align-items: center;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.cw-status-container .status-label {
+    color: #FFFFFF;
+    font-family: "Google Sans";
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 16px;
+    text-align: center;
+}

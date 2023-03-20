@@ -1,0 +1,23 @@
+.cw-menuitem-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 40px;
+    align-items: center;
+    
+}
+
+.cw-menuitem-container .icon {
+    width: 24px;
+    height: 24px;
+    margin-left: 13px;
+}
+
+.cw-menuitem-container .label {
+    margin-left:  16px;
+    color: #353957;
+    font-family: "Google Sans";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+}

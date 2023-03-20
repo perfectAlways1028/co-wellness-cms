@@ -1,0 +1,58 @@
+.cw-bannermanagement-container {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    overflow: auto;
+}
+
+.cw-bannermanagement-container .header {
+    align-self: stretch;
+    flex-direction: row;
+    display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cw-bannermanagement-container .header .title {
+    color: #353957;
+    font-family: "Google Sans";
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 30px;
+}
+.cw-bannermanagement-container .header .buttons {
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+}
+
+.cw-bannermanagement-container .filter {
+    align-self: stretch;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 1px solid #EAEDF3;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,0.04);
+}
+.cw-bannermanagement-container .content-container{
+    display: flex;
+    flex-direction: column;
+    align-self: stretch;
+    margin-top: 16px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 16px;
+    background-color: #FFFFFF;
+    border-radius: 4px;
+    border: 1px solid #EAEDF3;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,0.04);
+}
+
+

@@ -1,0 +1,114 @@
+.cw-textarea-container {
+    height: 160px;
+    align-items: flex-start;
+
+
+}
+.cw-textarea-container .label {
+  color: #353957;
+  font-family: "Google Sans";
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.cw-textarea-container .label_disabled {
+  color: #9EA0A5;
+  font-family: "Google Sans";
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+
+.cw-textarea-container .error {
+    display: 'flex';
+    font-size: 14px;
+    color: #F06775;
+    margin-top: 4px;
+    font-family: 'Google Sans';
+}
+
+.cw-textarea-container .field {
+  align-self: stretch;
+  display: flex;
+  position: relative;
+  margin-top: 4px;
+}
+
+.cw-textarea-container .field_disabled {
+    align-self: stretch;
+    display: flex;
+    color: #9EA0A5;
+    font-size: 14px;
+    line-height: 22px;
+    margin-top: 4px;
+    height: 120px;
+    padding-left: 16px;
+    border-width: 1px;
+    font-family: 'Google Sans Light';
+    border: 1px solid #E2E5ED;
+    border-radius: 4px;
+    background-color: #EBEBEC;
+    box-shadow: inset 0 1px 2px 0 rgba(102,113,123,0.21);
+    outline: none;
+    padding-top: 8px;
+    overflow: auto;
+    -webkit-appearance: none;
+}
+.cw-textarea-container .field.focussed textarea {
+    padding: 24px 16px 8px 16px;
+  }
+.cw-textarea-container .field.focussed textarea + label {
+    top: 4px;
+  }
+.cw-textarea-container .field.locked {
+   pointer-events: none;
+  }
+.cw-textarea-container .field textarea {
+    display: flex;
+    flex: 1;
+    border: 1px solid #A7A6C5;
+    border-radius: 4px;
+    height: 120px;
+    max-height: 120px;
+    position: relative;
+    padding-left: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-width: 1px;
+    font-family: 'Google Sans Light';
+    font-size: 16px;
+    background-color: white;
+    color: black;
+    outline: none;
+    -webkit-appearance: none;
+  }
+
+  .cw-textarea-container .field .eyeContainer {
+    position: absolute;
+    display: flex;
+    right: 12px;
+    top: 9px;
+    width: 24px;
+    height: 24px;
+    justify-content: center;
+    align-items: center;
+  }
+  .cw-textarea-container .field textarea::-webkit-input-placeholder {
+    color: #9EA0A5;
+    font-family: 'Google Sans Light';
+    font-size: 14px;
+  }
+  .cw-textarea-container .field textarea::-moz-placeholder {
+    color: #9EA0A5;
+    font-family: 'Google Sans Light';
+    font-size: 14px;
+  }
+  .cw-textarea-container .field textarea:-ms-input-placeholder {
+    color: #9EA0A5;
+    font-family: 'Google Sans Light';
+    font-size: 14px;
+  }

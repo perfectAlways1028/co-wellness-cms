@@ -1,0 +1,23 @@
+.cw-sidemenu-container {
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    align-items: flex-start;
+    overflow-y: auto;
+}
+
+.cw-sidemenu-container .header {
+    height: 55px;
+    align-self: stretch;
+    display: flex;
+    
+} 
+.cw-sidemenu-container .header .title {
+    display: flex;
+    margin-top: 26px;
+    margin-left: 30px;
+    color: #353957;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 500;
+}
